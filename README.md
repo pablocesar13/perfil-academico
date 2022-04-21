@@ -1,2 +1,4 @@
 # Perfil academico de Pablo Qiuirós
-Estudiante de Geografia de la Universidad de Costa Rica
+Estudiante de Geografía de la UCR
+Estudiante del curso de procesamientos de datos geograficos grupo 02
+
